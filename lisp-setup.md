@@ -1,6 +1,6 @@
-## Martin Drewes Writings
+## LISP SETUP
 
-Writings about Clojure and Lisp.
+Setting up Roswell, SBCL on Mac.
 
 ### Markdown
 
